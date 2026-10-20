@@ -1,0 +1,33 @@
+{
+"labels":{
+  "entry":"ingredient",
+  "entries":"pantry",
+  "session":"basket",
+  "sessions":"baskets",
+  "was":"had",
+  "now":"remaining",
+  "fields":["quantity","location"]
+},
+"entries":[
+{"name":"bananas","cat":"fruits","fields":["6","counter"]},
+{"name":"medjool dates","cat":"fruits","fields":["12 oz","pantry shelf"]},
+{"name":"ground lamb","cat":"animal","fields":["1 lb","freezer"]},
+{"name":"chicken thighs","cat":"animal","fields":["4","freezer"]},
+{"name":"whole milk","cat":"animal","fields":["1 gallon","fridge"]},
+{"name":"kefir","cat":"animal","fields":["32 oz","fridge"]},
+{"name":"eggs","cat":"animal","fields":["10","fridge"]},
+{"name":"radish","cat":"plants","fields":["2","fridge"]},
+{"name":"yam","cat":"plants","fields":["2","pantry shelf"]},
+{"name":"avocado","cat":"plants","fields":["6","counter"]},
+{"name":"russet potato","cat":"plants","fields":["3","pantry shelf"]},
+{"name":"yukon gold potato","cat":"plants","fields":["2","pantry shelf"]},
+{"name":"mango","cat":"fruits","fields":["12","pantry"]}
+],
+"sessions":[
+{"date":"2026-05-17  22:00","items":[
+{"name":"blackberries","was":["1 box","fridge"],"now":["half box","fridge"],"done":0},
+{"name":"whole milk","was":["1 gallon","fridge"],"now":["half gallon","fridge"],"done":0},
+{"name":"eggs","was":["12","fridge"],"now":["10","fridge"],"done":0}
+]}
+]
+}

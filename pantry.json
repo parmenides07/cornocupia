@@ -1,0 +1,23 @@
+{
+"ingredients":[
+{"name":"blueberries","qty":"1 box","cat":"fruits"},
+{"name":"blackberries","qty":"1 box","cat":"fruits"},
+{"name":"bananas","qty":"6","cat":"fruits"},
+{"name":"peaches","qty":"3","cat":"fruits"},
+{"name":"pineapple","qty":"1","cat":"fruits"},
+{"name":"ground lamb","qty":"1 lb","cat":"animal"},
+{"name":"chicken thighs","qty":"2.5 lb","cat":"animal"},
+{"name":"salmon","qty":"0.8 lb","cat":"animal"},
+{"name":"whole milk","qty":"1 gallon","cat":"animal"},
+{"name":"kefir","qty":"12 oz","cat":"animal"},
+{"name":"eggs","qty":"12","cat":"animal"},
+{"name":"raw honey","qty":"3 oz","cat":"animal"},
+{"name":"radish","qty":"0.8 lb","cat":"plants"},
+{"name":"yam","qty":"1.5 lb","cat":"plants"},
+{"name":"avacado","qty":"6","cat":"plants"},
+{"name":"yukon gold potato","qty":"2 lb","cat":"plants"}
+],
+"baskets":[
+]
+}
+

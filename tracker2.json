@@ -1,0 +1,49 @@
+{
+"labels":{
+  "entry":"part",
+  "entries":"workshop",
+  "session":"build",
+  "sessions":"builds",
+  "field":"stock",
+  "was":"had",
+  "now":"remaining"
+},
+"entries":[
+{"name":"M3 screws","field":"200","cat":"Fasteners"},
+{"name":"M5 screws","field":"20","cat":"Fasteners"},
+{"name":"M3 nuts","field":"135","cat":"Fasteners"},
+{"name":"Wood glue","field":"0.5 bottle","cat":"Adhesives"},
+{"name":"CA glue","field":"3 tubes","cat":"Adhesives"},
+{"name":"80 grit sandpaper","field":"12 sheets","cat":"Abrasives"},
+{"name":"120 grit sandpaper","field":"8 sheets","cat":"Abrasives"},
+{"name":"240 grit sandpaper","field":"3 sheets","cat":"Abrasives"},
+{"name":"Soldering wire","field":"eight spool","cat":"Electronics"},
+{"name":"Heat shrink tube","field":"30cm","cat":"Electronics"},
+{"name":"Runox Resistor","field":"done","cat":"Electronics"}
+],
+"sessions":[
+{"date":"2026-05-10  14:32","items":[
+{"name":"M3 screws","was":"200","now":"182","done":0},
+{"name":"80 grit sandpaper","was":"12 sheets","now":"9 sheets","done":0},
+{"name":"CA glue","was":"3 tubes","now":"2 tubes","done":0}
+]},
+{"date":"2026-05-14  10:15","items":[
+{"name":"Soldering wire","was":"half spool","now":"quarter spool","done":0},
+{"name":"Heat shrink tube","was":"30cm","now":"10cm","done":0},
+{"name":"240 grit sandpaper","was":"5 sheets","now":"done","done":1}
+]},
+{"date":"2026-05-17  21:34","items":[
+]},
+{"date":"2026-05-17  21:54","items":[
+{"name":"M5 screws","was":"80","now":"20","done":0},
+{"name":"Runox Resistor","was":"12","now":"none","done":1},
+{"name":"Soldering wire","was":"half spool","now":"quarter spool","done":0}
+]},
+{"date":"2026-05-18  13:20","items":[
+{"name":"Wood glue","was":"1 bottle","now":"0.5 bottle","done":0},
+{"name":"240 grit sandpaper","was":"5 sheets","now":"3 sheets","done":0},
+{"name":"M3 nuts","was":"150","now":"135","done":0},
+{"name":"Soldering wire","was":"quarter spool","now":"eight spool","done":0}
+]}
+]
+}

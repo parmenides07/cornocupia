@@ -1,0 +1,76 @@
+{
+  "labels": {
+    "entry": "media",
+    "entries": "backlog",
+    "session": "log",
+    "sessions": "logs",
+    "field": "status",
+    "was": "was",
+    "now": "now"
+  },
+  "entries": [
+    { "name": "JJBA: Golden Wind", "field": "ep 12 / 26", "cat": "Anime" },
+    { "name": "Neon Genesis Evangelion", "field": "not started", "cat": "Anime" },
+    { "name": "Vinland Saga", "field": "finished", "cat": "Anime" },
+    { "name": "Frieren: Beyond Journey's End", "field": "ep 3 / 28", "cat": "Anime" },
+    { "name": "Chainsaw Man", "field": "not started", "cat": "Anime" },
+    { "name": "The Brothers Karamazov", "field": "p. 241 / 824", "cat": "Books" },
+    { "name": "Blood Meridian", "field": "not started", "cat": "Books" },
+    { "name": "Piranesi", "field": "finished", "cat": "Books" },
+    { "name": "Dune Messiah", "field": "p. 88 / 331", "cat": "Books" },
+    { "name": "The Remains of the Day", "field": "not started", "cat": "Books" },
+    { "name": "Elden Ring", "field": "Altus Plateau", "cat": "Games" },
+    { "name": "Disco Elysium", "field": "not started", "cat": "Games" },
+    { "name": "Return of the Obra Dinn", "field": "finished", "cat": "Games" },
+    { "name": "Hollow Knight", "field": "Fungal Wastes", "cat": "Games" },
+    { "name": "Outer Wilds", "field": "not started", "cat": "Games" },
+    { "name": "The Sopranos", "field": "S3 E4", "cat": "Shows" },
+    { "name": "The Wire", "field": "finished", "cat": "Shows" },
+    { "name": "Severance", "field": "S2 E1", "cat": "Shows" },
+    { "name": "Deadwood", "field": "not started", "cat": "Shows" },
+    { "name": "Twin Peaks", "field": "S1 E3", "cat": "Shows" },
+    { "name": "Stalker (1979)", "field": "not started", "cat": "Films" },
+    { "name": "Mulholland Drive", "field": "finished", "cat": "Films" },
+    { "name": "Assassination of Jesse James", "field": "halfway", "cat": "Films" },
+    { "name": "Come and See (1985)", "field": "not started", "cat": "Films" },
+    { "name": "Yi Yi (2000)", "field": "not started", "cat": "Films" }
+  ],
+  "sessions": [
+    {
+      "date": "2026-05-01  21:14",
+      "items": [
+        { "name": "Jojo's Bizarre Adventure", "was": "ep 8 / 26", "now": "ep 12 / 26", "done": 0 },
+        { "name": "The Brothers Karamazov", "was": "p. 198 / 824", "now": "p. 241 / 824", "done": 0 }
+      ]
+    },
+    {
+      "date": "2026-05-04  19:45",
+      "items": [
+        { "name": "Hollow Knight", "was": "Forgotten Crossroads", "now": "Fungal Wastes", "done": 0 },
+        { "name": "The Sopranos", "was": "S3 E2", "now": "S3 E4", "done": 0 }
+      ]
+    },
+    {
+      "date": "2026-05-07  22:30",
+      "items": [
+        { "name": "Piranesi", "was": "p. 180 / 272", "now": "finished", "done": 1 },
+        { "name": "Frieren: Beyond Journey's End", "was": "ep 1 / 28", "now": "ep 3 / 28", "done": 0 }
+      ]
+    },
+    {
+      "date": "2026-05-10  20:00",
+      "items": [
+        { "name": "The Assassination of Jesse James", "was": "just started", "now": "halfway", "done": 0 },
+        { "name": "Dune Messiah", "was": "p. 40 / 331", "now": "p. 88 / 331", "done": 0 },
+        { "name": "Severance", "was": "not started", "now": "S2 E1", "done": 0 }
+      ]
+    },
+    {
+      "date": "2026-05-14  23:10",
+      "items": [
+        { "name": "Return of the Obra Dinn", "was": "mostly done", "now": "finished", "done": 1 },
+        { "name": "Twin Peaks", "was": "S1 E1", "now": "S1 E3", "done": 0 }
+      ]
+    }
+  ]
+}
